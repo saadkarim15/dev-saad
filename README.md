@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dev-saad
-- 👀 I’m interested in HTML, Css, Js
-- 🌱 I’m currently learning ReactJS
+- 👀 I’m interested in HTML, CSS, Js, React, Redux
+- 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on Facebook
 - 📫 How to reach me ...
 
